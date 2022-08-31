@@ -15,7 +15,13 @@ to learn by myself
   <p> 各院校資工碩班 http://www.ck-exam.com.tw/emba06/classic/information-s.htm</p>
   <p> 1.計算機概論</p>
   <p> 2.演算法與資料結構</p>
+  算法和操作系統原理<br>
+算法學習 刷題 AlgoExpert<br>
+LeetCode and AlgoExpert are popular educational platforms that help people prepare for software engineering interviews. The main difference between LeetCode and AlgoExpert is that LeetCode offers a wider range of questions to choose from while AlgoExpert focuses on providing in-depth explanations for each question.<br>
   <p> 3.作業系統</p>
+  作業系統 Operation systems Three easy pieces
+Remzi Arpaci-DUsseau https://pages.cs.wisc.edu/~remzi/OSTEP/
+  
   <p> what is Algorithm</p>
   <p> a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 JS: VC extension: code runner</p>
