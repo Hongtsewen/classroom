@@ -3,6 +3,16 @@
 to learn by myself
 
 <details>
+  <summary>IT線上課程 Youtube</summary>
+	<p>
+	- 計算機概論(台大CASE) https://www.youtube.com/watch?v=EDYjPpn1OmE&list=PLil-R4o6jmGiDc1CC8PyBbasl8kR9r8Wr
+	<br>- 資料結構(陽明交通大) https://www.youtube.com/watch?v=3503j2L6qNA&t=37s
+	<br>- Operating System作業系統 https://www.youtube.com/playlist?list=PL9jciz8qz_zyO55qECi2PD3k6lgxluYEV
+	<br>- Linux作業系統(南台科大) https://www.youtube.com/watch?v=HVO_eQtTsZA&list=PLdrYbn8q6soPAOYMLENKEtAgen5JCQJxE
+	</p>
+</details>
+
+<details>
   <summary>图灵星球Turing Planet: 關於設計模式Design Patterns:的書</summary>
   [什么是设计模式？凭什么是程序员重要的内功！【设计模式系列1】](https://www.youtube.com/watch?v=HHvTL_MOet4) 設計模式的聖經: 介紹這本書，用java和phthon做例子 OOP概念
   <p>Design Patterns: Elements of Reusable Object-Oriented Software</p>
