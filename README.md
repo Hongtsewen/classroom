@@ -3,12 +3,25 @@
 to learn by myself
 
 <details>
-  <summary>關於設計模式Design Patterns:的書</summary>
+  <summary>图灵星球Turing Planet: 關於設計模式Design Patterns:的書</summary>
+  [什么是设计模式？凭什么是程序员重要的内功！【设计模式系列1】](https://www.youtube.com/watch?v=HHvTL_MOet4) 設計模式的聖經: 介紹這本書，用java和phthon做例子 OOP概念
   <p>Design Patterns: Elements of Reusable Object-Oriented Software</p>
   <p>[深入淺出設計模式(第二版)Head First Design Patterns, 2nd Edition](https://www.books.com.tw/products/0010901056?gclid=Cj0KCQjwjbyYBhCdARIsAArC6LJQatGTUnRuUox7wbhOgUOWdZ-mHjHlr11bIhTpU4ZtuxR0ZtBTY1QaAr3WEALw_wcB)
 </p> 
+	<p></p>
   <pre><code>B-15$ ls myrepo  </code>  </pre>
 </details>
+
+<details>
+  <summary>奇乐编程学院: 羅斯</summary>
+  奇乐编程学院  https://www.youtube.com/channel/UCQiB10TT-sy5wdmCB6fiFlg
+  <p>为什么我用代码制作动画? 我的开源动画引擎 movy.js https://www.youtube.com/watch?v=C8EiA6RoTnQ
+  <br>TCP/IP 网络通信之 Socket 编程入门 
+  <br>Three.js (threejs) 浏览器中的3D渲染引擎 https://www.youtube.com/watch?v=E4rxBWm4nhA 
+  </p> 
+  <pre><code>--</code>  </pre>
+</details>
+
 
 <details>
   <summary>資工碩士在職進修班準備</summary>
