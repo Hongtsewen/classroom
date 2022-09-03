@@ -67,6 +67,10 @@ JS: VC extension: code runner</p>
 - [小学生向けの日本の歴史　できごと編　83の重要ポイント ](https://www.youtube.com/watch?v=oOPaYNcxQrA)
 - [小学生向けの日本の歴史 人物編　時代をつくった84人 ](https://www.youtube.com/watch?v=2w9OX9N6ShA)
 - []()
+- [日本100年の歴史を20分で解説してみた](https://www.youtube.com/watch?v=T6_jkxal1Mo)
+- [明清文學與日本文學 01：漢文訓讀與漢文脈概述](https://www.youtube.com/watch?v=vMjTK0rQD8s)
+- [暦作家と読む『論語』学而第一　知識が知恵に変わる瞬間](https://www.youtube.com/watch?v=r3haHIiMl1s&list=PL0HoClN3zOkjQoLCBEdRbi_0aI9LiE9hK)
+
 - [体の仕組み　骨､筋肉､消化､呼吸､心臓､血液の循環（小学生の理科） ](https://www.youtube.com/watch?v=41qHTq4xzBs)
 - []()
 
