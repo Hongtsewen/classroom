@@ -25,7 +25,7 @@ to learn by myself
 
 <details>
   <summary>資工碩士在職進修班準備</summary>
-  <p> 各院校資工碩班 http://www.ck-exam.com.tw/emba06/classic/information-s.htm</p>
+  <p> 各院校資工碩班 http://www.ck-exam.com.tw/emba06/classic/information-s.htm </p>
   <p> 1.計算機概論</p>
   <p> 2.演算法與資料結構</p>
   算法和操作系統原理<br>
