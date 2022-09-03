@@ -51,6 +51,7 @@ JS: VC extension: code runner</p>
   <pre><code>B-15$ ls myrepo  </code>  </pre>
 </details>
 
+
 <details>
   <summary>日文學習</summary>
   <p> - 從 [easyNews](https://www3.nhk.or.jp/news/easy/) 學習</p>
@@ -58,3 +59,14 @@ JS: VC extension: code runner</p>
   <p> - 每天寫日記</p> 
   <pre><code>  title，value，callBack可以缺省  </code>  </pre>
 </details>
+
+- [日本の歴史ユーチューブ](https://www.youtube.com/results?sp=mAEB&search_query=%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2)
+- [日本の歴史](https://ja.wikipedia.org/wiki/日本の歴史)
+- [日本史一覧](http://www.kotobuki-p.co.jp/jrekisi/jrekisi.htm)
+- [小学生向けの日本の歴史　時代の流れ編　旧石器時代から現代まで ](https://www.youtube.com/watch?v=wONWyDeXb7E)
+- [小学生向けの日本の歴史　できごと編　83の重要ポイント ](https://www.youtube.com/watch?v=oOPaYNcxQrA)
+- [小学生向けの日本の歴史 人物編　時代をつくった84人 ](https://www.youtube.com/watch?v=2w9OX9N6ShA)
+- []()
+- [体の仕組み　骨､筋肉､消化､呼吸､心臓､血液の循環（小学生の理科） ](https://www.youtube.com/watch?v=41qHTq4xzBs)
+- []()
+
