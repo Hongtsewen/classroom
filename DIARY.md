@@ -40,5 +40,16 @@ Q：看到好棒的推文，怎麼辦？🥰
 - 關於error log的等級：trace debug info warn error fatal <br> 
 [When to use the different log levels](https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels/2031209#2031209)
 - 我註冊了[Stack Overflow](https://zh.m.wikipedia.org/zh-tw/Stack_Overflow) 帳號了(用gmail帳號)。
+- Ubuntu20.04安裝Python 3.10  
+<pre>
+	sudo apt update && sudo apt upgrade -y
+	sudo apt install software-properties-common -y
+	sudo add-apt-repository ppa:deadsnakes/ppa -y
+	sudo apt install python3.10
+	python3.10 --version
+</pre>
+匯入模組 import。解析Python模組(Module)和套件(Package)的概念<br>
+但是隨著專案模組(Module)的增加，將難以管理及問題的追蹤，這時候就能將模組(Module)打包成套件(Package)，利用其階層式的結構來彈性規劃模組(Module)。在sh/class/mysql/*/py (可用python3 執行*.py程式)
+
 
 
