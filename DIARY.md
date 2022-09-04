@@ -2,6 +2,10 @@
 
 to track my works and thoughts
 
+### @-2022/09/05(月) -
+- 約東港李明祥談房地事。
+- 約呂森民龍舟隊教練。
+
 ### @-2022/09/04(日)林口-颱風 
 - ubuntu20.04安裝deb-get 參考[Install Third Party DEB Packages With 'deb get'](https://www.youtube.com/watch?v=xkdTMIp3PTg) 用$deb-get help 可看指令參數。在github上找wimpysworld/deb-get 可看到他public的整個project。看他們怎樣開發opensource程式，在github上工作與分享。
 - ubuntu20.04安裝OpenShot [How to Install OpenShot Video Editor on Ubuntu 22.04 LTS Jammy](https://www.how2shout.com/linux/how-to-install-openshot-video-editor-on-ubuntu-22-04-lts-jammy/)
@@ -29,6 +33,12 @@ Q：看到好棒的推文，怎麼辦？🥰
 	localhost/lfh/ds/newsrv.php   //首頁 >銷貨作業 >建立每月SRV<br>
 </details>
 
-- 在github的classroom上，新建這個日記檔案
-- 在github的classroom上，新建這個日記檔案
+- 在github的classroom上，新建這個DIARY.md日記檔案
+
+### @-2022/09/03(土)林口-颱風 
+- 花は咲く「わたしは何を残しただろう」。我們都在這塊地上走過，大多數的人無聲無息，有少數人留下了一些痕跡。「私たちは皆この野原を歩きましたが、ほとんどの人は黙って歩き、何人かは足跡を残しました。」
+- 關於error log的等級：trace debug info warn error fatal <br> 
+[When to use the different log levels](https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels/2031209#2031209)
+- 我註冊了[Stack Overflow](https://zh.m.wikipedia.org/zh-tw/Stack_Overflow) 帳號了(用gmail帳號)。
+
 
