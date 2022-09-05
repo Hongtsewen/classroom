@@ -4,6 +4,7 @@ to track my works and thoughts
 
 ### @-2022/09/05(月) -
 - 約東港李明祥談房地事。
+- 約東港李明祥談房地事。
 - 呂森民0939125545 龍舟隊教練。屏東竹田人警校畢業消防警官，婚後移居嘉義，來大鵬灣組織屏東縣龍舟隊。
 - SchelleyYuki 程序员小姐姐 [分享优质教程2020: 编程入门, 算法, 高效刷题, 系统设计, 前端开发 | 刷题, 找工作, 算法面试](https://www.youtube.com/watch?v=1RzByC1bcuc&list=RDCMUCS1kMgt4igpfjL5lhGvo-fw&index=40)
 <details>
@@ -30,6 +31,12 @@ to track my works and thoughts
   [Coding in Flow](https://www.youtube.com/c/CodinginFlow)  | 
   [Josh and Katie](https://www.youtube.com/c/JoshandKatie)  |  
   [beacoder](https://www.youtube.com/c/beacoder)  |  
+
+- 如何把新程式放入林口興業的程式下執行！
+1.把程式放到 lkhy/module下面 (記得程式裡的include都不需要，都註解掉)
+2.執行 lkhy/xdxd_menu_manager.php 準備登錄有關程式的資料:
+1)標準版: 各家通用的; 客製版:只此家專用的 (我選了這個,-- 點 新增客製區); 工程師:老子在用可能通用 不給一般user用的;
+![程式使用權限相關資料設定](htw20220905.png "填寫內容舉例")
  
 
 
