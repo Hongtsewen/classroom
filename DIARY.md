@@ -48,6 +48,20 @@ REPLACE INTO `xdxd_group` VALUES ('12','7020');
 </pre>
 
 - [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book#MarkDown語法大全)
+- 昀達的zscmt3.php用法
+<details>
+	<summary>以EMD和SRV兩檔配合使用為例</summary>
+*注意: 我在ubuntu與MariaDB上要求較嚴(SYSTBR檔欄位default不可為-無;須改為null)故須：
+<pre>
+ALTER TABLE `SYSTBR` CHANGE `PUPD_IDX` `PUPD_IDX` VARCHAR(2) CHARACTER SET utf8mb3 COLLATE utf8mb3_general_ci NULL DEFAULT NULL;
+ALTER TABLE `SYSTBR` CHANGE `NOTE` `NOTE` TEXT CHARACTER SET utf8mb3 COLLATE utf8mb3_general_ci NULL DEFAULT NULL;
+</pre>
+執行zscmt2.php後填：EMD和SRV兩個檔案，然後注意:
+1.EMD.EMDN=SRV.EMDN
+2.搜尋要勾datein 
+搜尋用日期屬性: 選區間+填寫欄明 DATEIN
+3.版本要選隆福
+</details>
 
 
 ### @-2022/09/04(日)林口-颱風 
