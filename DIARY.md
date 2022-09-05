@@ -24,11 +24,12 @@ to track my works and thoughts
   Udemy網路課程  (react js  ) 在職工作者授課<br>
 6.程序員博主介紹<br>
 </details><br>
+
 - 博主介紹
-  [mayuko](https://www.youtube.com/c/hellomayuko ) 
-  [Coding in Flow](https://www.youtube.com/c/CodinginFlow) 
-  [Josh and Katie](https://www.youtube.com/c/JoshandKatie) 
-  [beacoder](https://www.youtube.com/c/beacoder) 
+  [mayuko](https://www.youtube.com/c/hellomayuko ) |  
+  [Coding in Flow](https://www.youtube.com/c/CodinginFlow)  | 
+  [Josh and Katie](https://www.youtube.com/c/JoshandKatie)  |  
+  [beacoder](https://www.youtube.com/c/beacoder)  |  
  
 
 
