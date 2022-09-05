@@ -37,6 +37,17 @@ to track my works and thoughts
 2.執行 lkhy/xdxd_menu_manager.php 準備登錄有關程式的資料:
 1)標準版: 各家通用的; 客製版:只此家專用的 (我選了這個,-- 點 新增客製區); 工程師:老子在用可能通用 不給一般user用的;
 ![程式使用權限相關資料設定](htw20220905.png "填寫內容舉例")
+3.填好如圖後，要選擇是誰填的名字，因程序員有時用公用帳號登入！一旦執行後，會秀出語法如下:
+<pre>
+資料已新增！參考SQL語法如下：
+資料已新增！參考SQL語法如下：
+xdxd_menu:
+INSERT INTO `xdxd_menu` (`id`, `func`, `group`, `parent`, `order`, `name_ZH_TW`, `target_ZH_TW`, `name_ZH_CN`, `target_ZH_CN`, `enable`, `hotbar`, `hotbar_order`, `click`) VALUES (7020, 1, 357, 1521, 99, 'ybm統計6223', 'sta_ybm_6223.php', 'ybm統計6223', 'sta_ybm_6223.php', 1, 0, 0, 0);
+
+xdxd_group:
+REPLACE INTO `xdxd_group` VALUES ('10','7020');
+REPLACE INTO `xdxd_group` VALUES ('12','7020');
+</pre>
  
 
 
