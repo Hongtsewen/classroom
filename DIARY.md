@@ -4,7 +4,33 @@ to track my works and thoughts
 
 ### @-2022/09/05(月) -
 - 約東港李明祥談房地事。
-- 約呂森民龍舟隊教練。
+- 呂森民0939125545 龍舟隊教練。屏東竹田人警校畢業消防警官，婚後移居嘉義，來大鵬灣組織屏東縣龍舟隊。
+- SchelleyYuki 程序员小姐姐 [分享优质教程2020: 编程入门, 算法, 高效刷题, 系统设计, 前端开发 | 刷题, 找工作, 算法面试](https://www.youtube.com/watch?v=1RzByC1bcuc&list=RDCMUCS1kMgt4igpfjL5lhGvo-fw&index=40)
+<details>
+<summary>影片內容摘要</summary>
+1.0:22 如何編程簡潔抽象<br>
+  The little schema 簡潔編程語言<br>
+2.3:21 算法 應對面試<br>
+  遞歸 迭代 遞歸優化 思維訓練 Mahtias p. NEU<br>
+  算法的學習與訓練 Algo Expert (像leet code)<br>
+  算法認識  算法構思 寫代碼 分析時間空間複雜度<br>
+  cs 研究  BFS廣度優先搜索  DFS深度優先搜索   Bscktracking回溯<br>
+3.6:47 後端開發Back-end 參考書<br>
+  Desingning Data-Intensive Applications<br>
+  asynchronous <br>
+4.8:55 系統設計 System Design<br>
+  #Grokking the System Design Interview<br>
+5.前端開發 Front-End<br>
+  Udemy網路課程  (react js  ) 在職工作者授課<br>
+6.程序員博主介紹<br>
+</details><br>
+- 博主介紹
+  [mayuko](https://www.youtube.com/c/hellomayuko ) 
+  [Coding in Flow](https://www.youtube.com/c/CodinginFlow) 
+  [Josh and Katie](https://www.youtube.com/c/JoshandKatie) 
+  [beacoder](https://www.youtube.com/c/beacoder) 
+ 
+
 
 ### @-2022/09/04(日)林口-颱風 
 - ubuntu20.04安裝deb-get 參考[Install Third Party DEB Packages With 'deb get'](https://www.youtube.com/watch?v=xkdTMIp3PTg) 用$deb-get help 可看指令參數。在github上找wimpysworld/deb-get 可看到他public的整個project。看他們怎樣開發opensource程式，在github上工作與分享。
