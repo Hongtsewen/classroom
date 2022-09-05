@@ -2,7 +2,7 @@
 
 to track my works and thoughts
 
-### @-2022/09/05(月) -
+### @-2022/09/05(月) 高雄-晴
 - 呂森民0939125545 龍舟隊教練。屏東竹田人警校畢業消防警官，婚後移居嘉義，來大鵬灣組織屏東縣龍舟隊。
 - SchelleyYuki 程序员小姐姐 [分享优质教程2020: 编程入门, 算法, 高效刷题, 系统设计, 前端开发 | 刷题, 找工作, 算法面试](https://www.youtube.com/watch?v=1RzByC1bcuc&list=RDCMUCS1kMgt4igpfjL5lhGvo-fw&index=40)
 <details>
@@ -46,7 +46,8 @@ xdxd_group:
 REPLACE INTO `xdxd_group` VALUES ('10','7020');
 REPLACE INTO `xdxd_group` VALUES ('12','7020');
 </pre>
- 
+
+- [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book#MarkDown語法大全)
 
 
 ### @-2022/09/04(日)林口-颱風 
