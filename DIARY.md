@@ -2,15 +2,21 @@
 
 to track my works and thoughts
 
+### @-2022/09/07(水)林口-
+- 陳俊吉: 怎樣改檔案？ 根據台北礦油商業同業公會的沿革記載: 格式應不同
+- ＠2022/10/25 兄弟會名單:鄭重文、張文勝; <br>
+- 
 ### @-2022/09/06(火)林口-
 - [訪談](https://hongtsewen.github.io/focus/)「人們都是為了生活而需工作，為家庭生計而不能不奮鬥。 部份能堅持下去的，終讓一家人的生計成為一群人的事業。」
-- 陳俊吉: 怎樣改檔案？ 根據台北礦油商業同業公會的沿革記載: 格式應不同
-- 林富慧: 林口興業七八月薪資表入SALARY檔 以便轉入檔，用八月薪試做程式 以便十月初完成九月薪。>張文勝-準備給程式。
-- 陳正昌 給兩書 @取掃描檔案 
-＠2022/10/25 兄弟會名單:鄭重文、張文勝; <br>
-法拍[豐原區復興段小段722號](https://auction.988house.com/detail/636078) <br>
+- 林富慧: 林口興業七八月薪資已入SALARY檔<sta_ybm_6223.php已可用>張文勝。
+- 法拍[豐原區復興段小段722號](https://auction.988house.com/detail/636078) <br>
 @設備操作 內勤工作 客戶服務 問題解決 訓練督導; 王國維 境界有大小，不以是而分優劣。<br>
 @多一個EMDN 工作說明o123分級 入資料庫<br>
+- 我的mariaDB要求較嚴，所以SYSTBR的欄位不允許無設定，須改為null-
+<pre>
+ALTER TABLE `SYSTBR` CHANGE `NOTE` `NOTE` TEXT CHARACTER SET utf8mb3 COLLATE utf8mb3_general_ci NULL DEFAULT NULL;
+ALTER TABLE `SYSTBR` CHANGE `PUPD_IDX` `PUPD_IDX` VARCHAR(2) CHARACTER SET utf8mb3 COLLATE utf8mb3_general_ci NULL DEFAULT NULL;
+</pre>
 
 ### @-2022/09/05(月) 高雄-晴
 - 呂森民0939125545 龍舟隊教練。屏東竹田人警校畢業消防警官，婚後移居嘉義，來大鵬灣組織屏東縣龍舟隊。
