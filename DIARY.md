@@ -55,6 +55,7 @@ xdxd_group:
 REPLACE INTO `xdxd_group` VALUES ('10','7020');
 REPLACE INTO `xdxd_group` VALUES ('12','7020');
 </pre>
+★提醒: 別忘了，svn commit上去的程式，還要ssh去akira主機，到這程式目錄下svn up才會生效。
 
 - [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book#MarkDown語法大全)
 - 昀達的zscmt3.php用法
