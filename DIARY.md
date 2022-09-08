@@ -7,6 +7,8 @@ to track my works and thoughts
 　[英エリザベス女王死去　96歳　在位70年](https://news.yahoo.co.jp/articles/e8f1d607d9432c48e1579766516883700787b1c2)
 　[Queen Elizabeth II has died](https://www.bbc.com/news/uk-61585886)
 - [英斂之、英千里、英若誠](https://zh.wenxuecity.com/bbs/memory/1547247.html)，擬購書《Voices Carry》英若誠自傳[水流雲在](https://www.books.com.tw/products/CN10418170)
+- [一篇文章學會使用gitk](https://kknews.cc/zh-tw/code/34v28va.html)
+
 
 ### @-2022/09/08(木)林口-
 - 討論2023人事調動，Ciso報告未來計劃。佩文準備下週紀文亭調訓事。我提供「關於選任幹部的考量」
