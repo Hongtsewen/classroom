@@ -13,20 +13,6 @@ to learn by myself
 </details>
 
 <details>
-<summary>WeHelpBootcamp第三屆沒申請上</summary>
-<p>[WeHelp Bootcamp](https://training.pada-x.com/wehelp/)</p>
-<pre>WeHelp <wehelp@pada-x.com><br>
-2022/9月7日 週三 凌晨2:13 (2 天前)<br>
-您好，哲文：<br>
-很感謝您的申請，經過仔細閱讀您填寫的申請內容後，決定【無法邀請您】參加這一屆的訓練營。<br>
-由於申請者眾多，我們的資源有限，僅能利用有限的資訊，艱難的做出抉擇。鼓勵您繼續努力往自己的目標邁進，也歡迎您下一屆再來申請。<br>
--------------<br>
-2022/09/09 謝謝回覆:<br>
-很遺憾沒能參加此次課程，我會繼續充實自己，準備嘗試下一屆的申請，並預祝Wehlp課程順利成功。<br>
-洪哲文敬上<br></pre>
-</details>
-
-<details>
   <summary>图灵星球Turing Planet: 關於設計模式Design Patterns:的書</summary>
   [什么是设计模式？凭什么是程序员重要的内功！【设计模式系列1】](https://www.youtube.com/watch?v=HHvTL_MOet4) 設計模式的聖經: 介紹這本書，用java和phthon做例子 OOP概念
   <p>Design Patterns: Elements of Reusable Object-Oriented Software</p>
@@ -90,6 +76,21 @@ JS: VC extension: code runner</p>
 - [体の仕組み　骨､筋肉､消化､呼吸､心臓､血液の循環（小学生の理科） ](https://www.youtube.com/watch?v=41qHTq4xzBs)
 - []()
 	
+
+<details>
+<summary>WeHelpBootcamp第三屆沒申請上</summary>
+<p>[WeHelp Bootcamp](https://training.pada-x.com/wehelp/)</p>
+<pre>WeHelp <wehelp@pada-x.com><br>
+2022/9月7日 週三 凌晨2:13 (2 天前)<br>
+您好，哲文：<br>
+很感謝您的申請，經過仔細閱讀您填寫的申請內容後，決定【無法邀請您】參加這一屆的訓練營。<br>
+由於申請者眾多，我們的資源有限，僅能利用有限的資訊，艱難的做出抉擇。鼓勵您繼續努力往自己的目標邁進，也歡迎您下一屆再來申請。<br>
+-------------<br>
+2022/09/09 謝謝回覆:<br>
+很遺憾沒能參加此次課程，我會繼續充實自己，準備嘗試下一屆的申請，並預祝Wehlp課程順利成功。<br>
+洪哲文敬上<br></pre>
+</details>
+
 #### WeHelp Bootcamp課程計劃
 <table>
 <th><td>
