@@ -140,5 +140,6 @@ JS: VC extension: code runner</p>
 	</ul>
 	</div>
 </td></th>
+</table>
 	
 
