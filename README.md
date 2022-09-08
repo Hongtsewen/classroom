@@ -44,6 +44,8 @@ to learn by myself
   <br>Three.js (threejs) 浏览器中的3D渲染引擎 https://www.youtube.com/watch?v=E4rxBWm4nhA 
   </p> 
   <pre><code>--</code>  </pre>
+
+	
 </details>
 
 
@@ -87,4 +89,55 @@ JS: VC extension: code runner</p>
 
 - [体の仕組み　骨､筋肉､消化､呼吸､心臓､血液の循環（小学生の理科） ](https://www.youtube.com/watch?v=41qHTq4xzBs)
 - []()
+	
+#### WeHelp Bootcamp課程計劃
+<table>
+<th><td>
+	<div class="rule">
+	<b>八週2022/09/19 ~ 2022/11/13：</b>
+	<ul>
+		<li>HTML、CSS、RWD 切版實務</li>
+		<li>JavaScript、Python 基本練習</li>
+		<li>JavaScript、Python 網路連線與資料運用</li>
+		<li>架設 Flask 網站後端伺服器</li>
+		<li>架設 MySQL 資料庫伺服器</li>
+		<li>基礎會員系統開發</li>
+		<li>前端 AJAX、後端 API 整合功能開發</li>
+		<li>主題學習，實體活動，轉職經驗分享</li>
+	</ul>
+	</div>
+</td></th>
+<th><td>
+	<div class="rule">
+	<b>八週2022/11/14 ~ 2023/01/08：</b>
+	<ul>
+		<li>資料庫處理、AWS 雲端服務</li>
+		<li>景點 API 與網站首頁呈現</li>
+		<li>景點頁面、互動輪播效果開發</li>
+		<li>會員功能整合</li>
+		<li>預定行程功能整合</li>
+		<li>金流串接：導覽服務購買</li>
+		<li>系統優化：優化前端版面流程、後端資料庫</li>
+		<li>多人合作開發練習、職場經驗分享</li>
+	</ul>
+	</div>
+</td></th>
+<th><td>
+	<div class="rule">
+	<b>十週2023/01/09 ~ 2023/03/26：</b>
+	<ul>
+		<li>前端、或後端技術深入研究</li>
+		<li>個人專案發想與準備</li>
+		<li>第一個 Sprint：完成核心功能</li>
+		<li>第二個 Sprint：完成核心流程</li>
+		<li>第三個 Sprint：完成週邊功能</li>
+		<li>第四個 Sprint：完成周邊流程</li>
+		<li>第五個 Sprint：專案除錯、優化</li>
+		<li>第六個 Sprint：最終成品收尾</li>
+		<li>履歷撰寫、面試練習、解題練習</li>
+		<li>資深工程師模擬面試練習</li>
+	</ul>
+	</div>
+</td></th>
+	
 
