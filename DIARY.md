@@ -2,6 +2,13 @@
 
 to track my works and thoughts
 
+
+### @-2022/09/10(土)林口-
+#### 關於錄影 
+- 錄製影片，有兩種方式：利用網路(chrome_addup如vimeo)工具，或自下載安裝工具(如SimpleScreenRecord或OBS)
+- [Vimeo Record - Screen & Webcam Recorder](https://chrome.google.com/webstore/detail/vimeo-record-screen-webca/ejfmffkmeigkphomnpabpdabfddeadcb?utm_campaign=screen_recorder&utm_content=player_end_screen&utm_source=onsite&vcid=38593)
+
+
 ### @-2022/09/09(金)林口-
 - [英國女王伊莉莎白二世辭世 享耆壽96歲](https://news.ltn.com.tw/news/world/breakingnews/4052790)
 　[英エリザベス女王死去　96歳　在位70年](https://news.yahoo.co.jp/articles/e8f1d607d9432c48e1579766516883700787b1c2)
