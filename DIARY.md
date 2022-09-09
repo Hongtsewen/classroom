@@ -8,6 +8,7 @@ to track my works and thoughts
 　[Queen Elizabeth II has died](https://www.bbc.com/news/uk-61585886)
 - [英斂之、英千里、英若誠](https://zh.wenxuecity.com/bbs/memory/1547247.html)，擬購書《Voices Carry》英若誠自傳[水流雲在](https://www.books.com.tw/products/CN10418170)
 - [一篇文章學會使用gitk](https://kknews.cc/zh-tw/code/34v28va.html)
+- 今日はkaggleで初めてpythonを学べました
 
 
 ### @-2022/09/08(木)林口-
