@@ -7,6 +7,7 @@ to track my works and thoughts
 #### 關於錄影 
 - 錄製影片，有兩種方式：利用網路(chrome_addup如vimeo)工具，或自下載安裝工具(如SimpleScreenRecord或OBS)
 - [Vimeo Record - Screen & Webcam Recorder](https://chrome.google.com/webstore/detail/vimeo-record-screen-webca/ejfmffkmeigkphomnpabpdabfddeadcb?utm_campaign=screen_recorder&utm_content=player_end_screen&utm_source=onsite&vcid=38593)
+- 燕秋老師教學頻道[OBS必學第一招-你會使用OBS錄製教學影片嗎?](https://www.youtube.com/watch?v=t5SgWlzjYu0&t=392s)
 
 
 ### @-2022/09/09(金)林口-
