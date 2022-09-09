@@ -2,7 +2,7 @@
 
 to learn by myself
 
-### Fee data science learning
+### Free data science learning
 - [kaggle](https://www.kaggle.com/learn)
 - [Machine Learning](https://developers.google.com/machine-learning/crash-course)
 - [Colaboratory](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
