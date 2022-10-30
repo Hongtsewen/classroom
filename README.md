@@ -4,14 +4,13 @@ to learn by myself
 
 #### 洪哲文註冊GitHub帳號後，建的幾個repo :  
 
-| 
-[classroom](https://hongtsewen.github.io/classroom/) | 
-[test1](https://hongtsewen.github.io/test1/) | 
-[myrepo](https://hongtsewen.github.io/myrepo/) | 
-[wehelp](#) 無pages | 
-[focus](https://hongtsewen.github.io/focus/) | 
-[洪哲文簡介](https://hongtsewen.github.io/) | 
-[Hontsewen](#) 無pages | 
+[classroom](https://hongtsewen.github.io/classroom/) -
+[test1](https://hongtsewen.github.io/test1/) -
+[myrepo](https://hongtsewen.github.io/myrepo/) -
+[wehelp](#) 無pages -
+[focus](https://hongtsewen.github.io/focus/) -
+[洪哲文簡介](https://hongtsewen.github.io/) -
+[Hontsewen](#) 無pages 
 
 ### Free data science learning
 - [kaggle](https://www.kaggle.com/learn)
